@@ -1,0 +1,14 @@
+p {
+    color: blue;
+    text-align: center;    
+}
+
+.highlight {
+    font: 200px;
+    text-align: right;
+}
+
+#List, #abc {
+    color: red;
+    text-decoration: dashed;
+}
