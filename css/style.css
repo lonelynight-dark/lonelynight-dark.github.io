@@ -13,3 +13,16 @@ img {
     width: 25%;
     border-top: 1px solid white;
 }
+
+.page-footer a, a:hover, a:focus, a:active, a::before {
+    text-decoration: none;
+    color: inherit;
+}
+
+.page-footer {
+    margin-top: 30px;
+}
+
+#contact-section {
+    margin-top: 30px;
+}
