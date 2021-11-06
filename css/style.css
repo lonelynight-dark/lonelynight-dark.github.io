@@ -9,7 +9,7 @@ img {
     height: auto;
 }
 
-.site-footer {
-    background-color: lightblue;
-    margin-bottom: 0;
+.page-footer > hr {
+    width: 25%;
+    border-top: 1px solid white;
 }
