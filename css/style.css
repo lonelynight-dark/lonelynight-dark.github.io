@@ -1,0 +1,15 @@
+#jumbotron {
+    background: linear-gradient(rgba(0,0,0,0.8), rgba(108, 108, 108, 0.8)), url('../img/canva-turquoise-dogs-and-paw-print-cute-zoom-virtual-background-6nPSmRqEqWw.jpg');
+    height: 500px;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.site-footer {
+    background-color: lightblue;
+    margin-bottom: 0;
+}
